@@ -3,7 +3,7 @@
 import asyncio, datetime, discord, getpass, logging, os, shutil, signal, struct, subprocess, threading, time, urllib.request, urllib.error, urllib.parse
 
 user_bot = "RemoteBot" #Mettez dans cette variable le pseudo du bot.
-token = "NDIzMTc1MjczMTk0ODQ4MjY2.DYmgWw.JUxtUf-MtSbDIvLScuozDqhnhPY" #Mettez dans cette variable le token du bot
+token = tokenvar #Mettez dans cette variable le token du bot
 trust = ["Utilisateur 1", "Utilisatur 2"]
 only_PM = True
 
